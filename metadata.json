@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "AI-Powered Academia–Industry Skill Intelligence Platform. Connecting Students, Faculty, Institutions, and Industry through evidence-based skill verification and AI matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
